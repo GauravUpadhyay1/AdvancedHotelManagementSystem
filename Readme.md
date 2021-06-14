@@ -10,3 +10,26 @@
 <img width="485" alt="chatbot" src="https://user-images.githubusercontent.com/82885666/120639516-0b119080-c48f-11eb-8b64-4811db3a9d2c.PNG">
 
     
+# How does it work?
+- The login screen provides secure access to only the real admin of the application.
+- After you've added your credentials on the login screen when you press the login button the system takes 5 photos of you and saves them in the data folder(you can change the folder)
+- From the login screen you can add a new admin also.
+- In case you forget the password it has a security question feature which can reset your password.
+- The home screen has real date and Time inbuilt in it.
+- This advanced hotel management system provides secure data storage for customer records/room records ets.
+- It has a Report page from where you can file a complaint to the developer and the developer will get an email about the same.
+- It has an in built chatbot with which any new person who do not know how to use this project can still ask questions to the chatbot and learn how to do things.
+
+
+# How to run?
+- Clone the repository into your system
+- Install the modules.txt file(pip install -r modules.txt)
+- Open the application from login.py
+- Change the database according to you
+
+# Queries?
+- In case of any queries feel free to mail me - gupadhyay8080@gmail.com
+
+# Languages used
+- Python(Tkinter)
+- MySQL as database using MySQL Workbench
